@@ -1,6 +1,5 @@
 
-layout: default
-title: Home
+
 
 **Name:** Bryan Nguyen
 **Email:** [bhn007@ucsd.edu](mailto:bhn007@ucsd.edu)  
