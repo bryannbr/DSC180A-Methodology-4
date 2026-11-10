@@ -32,7 +32,7 @@ but this is just a potential idea I had and at face value I'd be thrilled to exp
 I think in terms of the group dynamics, we all get along well and communicate well, there's no problems on a civil level. However in terms of combining our efforts, I feel like as a collective I'd look into a potential change as to 
 group work because currently the forecasting group is split into 2 different factions, question generation and data setup. And I think that I'm a lot more familiar with what's going on with the question generation group than the 
 data setup group in terms of goals and progress and such. I think this is something though that will naturally blend together more nicely in the upcoming weeks but it is just something to note that I feel I'd make some changes to 
-make the forecasting group feel more cohesive instead of us essentially split into 2 different factions. I feel we will solve this in the weeks coming forth but this is just speaking from what we've done so far up until this point is all. 
+make the forecasting group feel more cohesive instead of us essentially split into 2 different factions. I'm sure we will solve this in the weeks coming forth just naturally as we get closer to our deadline but this is just speaking from what we've done so far up until this point is all. 
 
 **4. What other techniques would you be interested in using in your project?**
 
